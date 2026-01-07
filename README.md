@@ -1,11 +1,11 @@
-👋 Hi, I'm Luiz Fernando
-📊 Data Analyst | BI Analyst | Operations Analyst
+Hi, I'm Luiz Fernando
+Data Analyst | BI Analyst | Operations Analyst
 
 Professional with a strong background in logistics, inventory management, and operations, focused on using data to improve processes, service level, and decision-making.
 
 I work at the intersection of data analysis and operations, applying SQL, Business Intelligence tools, and Python to transform raw operational data into actionable insights that support business goals.
 
-🧠 What I Do
+What I Do
 
 Analyze operational, logistics, and inventory data to identify inefficiencies and opportunities
 
@@ -17,7 +17,7 @@ Apply Python for automation, data manipulation, and advanced analysis
 
 Support stakeholders with data-driven insights to improve customer service and operational excellence
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
 SQL (data extraction, validation, performance analysis)
 
@@ -31,7 +31,7 @@ ETL & Data Quality concepts
 
 Logistics & Inventory KPIs (OTIF, fill rate, stock accuracy, backorders)
 
-📦 Domain Experience
+Domain Experience
 
 Logistics & Supply Chain Operations
 
@@ -43,7 +43,7 @@ Process Improvement & Continuous Improvement
 
 Data Quality & Operational Reporting
 
-🚀 Goals
+Goals
 
 Drive operational efficiency through data
 
@@ -53,7 +53,7 @@ Build reliable, clear, and actionable analytics solutions
 
 Continuously grow as a Data & Operations Analyst
 
-📫 Let’s Connect
+Let’s Connect
 
 LinkedIn: https://ca.linkedin.com/in/luiz-fernando-godoy-paiva-a61b8760
 
