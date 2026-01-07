@@ -57,4 +57,3 @@ Continuously grow as a Data & Operations Analyst
 
 LinkedIn: https://ca.linkedin.com/in/luiz-fernando-godoy-paiva-a61b8760
 
-GitHub: You’re already here 🙂
